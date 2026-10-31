@@ -1,0 +1,155 @@
+{
+ "jobs": [
+  {
+   "id": "t2mm_0_latinpop_lock",
+   "task": "mumo",
+   "music_desc": "The audio is a Latin pop song.",
+   "motion_desc": "The style of the dance is lock."
+  },
+  {
+   "id": "t2mm_1_indie_house",
+   "task": "mumo",
+   "music_desc": "The music is a mix of indie pop and indie rock.",
+   "motion_desc": "The genre of the dance is house."
+  },
+  {
+   "id": "t2mm_2_pop_genre",
+   "task": "mumo",
+   "music_desc": "The music is pop genre.",
+   "motion_desc": "The style of the dance is pop."
+  },
+  {
+   "id": "t2mm_3_disco_genre",
+   "task": "mumo",
+   "music_desc": "The music is disco genre.",
+   "motion_desc": "The style of the dance is lock."
+  },
+  {
+   "id": "t2mm_4_dreamy_indiepop",
+   "task": "mumo",
+   "music_desc": "The audio is a dreamy indie pop song with jangly guitars, airy vocals, and shimmering synth pads.",
+   "motion_desc": "The style of the dance is street jazz."
+  },
+  {
+   "id": "t2mm_5_blues_rock",
+   "task": "mumo",
+   "music_desc": "The audio is a gritty blues-rock track with overdriven guitar riffs, raw vocals, and a shuffling shuffle beat.",
+   "motion_desc": "The style of the dance is break."
+  },
+  {
+   "id": "t2mm_6_classical_piano",
+   "task": "mumo",
+   "music_desc": "The audio is a calm classical piano piece.",
+   "motion_desc": "The style of the dance is ballet jazz."
+  },
+  {
+   "id": "t2mm_7_hiphop_beat",
+   "task": "mumo",
+   "music_desc": "The audio is an energetic hip-hop beat with heavy bass and rap vocals.",
+   "motion_desc": "The style of the dance is middle hip-hop."
+  },
+  {
+   "id": "t2mm_8_heavy_metal",
+   "task": "mumo",
+   "music_desc": "The audio is a fast heavy metal song with distorted guitars and pounding drums.",
+   "motion_desc": "The style of the dance is krump."
+  },
+  {
+   "id": "tm2m_mHO5",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The genre of the dance is house.",
+   "music_path": "data/aist_music/mHO5.mp3",
+   "offset": 8.0,
+   "genre": "house"
+  },
+  {
+   "id": "tm2m_mJB5",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is ballet jazz",
+   "music_path": "data/aist_music/mJB5.mp3",
+   "offset": 8.0,
+   "genre": "ballet jazz"
+  },
+  {
+   "id": "tm2m_mWA0",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The genre of the dance is waack",
+   "music_path": "data/aist_music/mWA0.mp3",
+   "offset": 8.0,
+   "genre": "waack"
+  },
+  {
+   "id": "tm2m_mLO2",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "This is a lock style dance.",
+   "music_path": "data/aist_music/mLO2.mp3",
+   "offset": 8.0,
+   "genre": "lock"
+  },
+  {
+   "id": "tm2m_mBR0",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is break.",
+   "music_path": "data/aist_music/mBR0.mp3",
+   "offset": 8.0,
+   "genre": "break"
+  },
+  {
+   "id": "tm2m_mPO1",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is pop.",
+   "music_path": "data/aist_music/mPO1.mp3",
+   "offset": 8.0,
+   "genre": "pop"
+  },
+  {
+   "id": "tm2m_mKR2",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is krump.",
+   "music_path": "data/aist_music/mKR2.mp3",
+   "offset": 8.0,
+   "genre": "krump"
+  },
+  {
+   "id": "tm2m_mMH3",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is middle hip-hop.",
+   "music_path": "data/aist_music/mMH3.mp3",
+   "offset": 8.0,
+   "genre": "middle hip-hop"
+  },
+  {
+   "id": "tm2m_mJS3",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is street jazz.",
+   "music_path": "data/aist_music/mJS3.mp3",
+   "offset": 8.0,
+   "genre": "street jazz"
+  },
+  {
+   "id": "mt2mu_dreamy_indiepop",
+   "task": "mu",
+   "music_desc": "The audio is a dreamy indie pop song with jangly guitars, airy vocals, and shimmering synth pads.",
+   "motion_desc": "",
+   "motion_path": "UniMuMo/data/motion/train/joint_vecs/gWA_sBM_cAll_d25_mWA0_ch01.npy",
+   "offset": 0.0
+  },
+  {
+   "id": "mt2mu_blues_rock",
+   "task": "mu",
+   "music_desc": "The audio is a gritty blues-rock track with overdriven guitar riffs, raw vocals, and a shuffling shuffle beat.",
+   "motion_desc": "",
+   "motion_path": "UniMuMo/data/motion/train/joint_vecs/gWA_sBM_cAll_d25_mWA0_ch01.npy",
+   "offset": 0.0
+  }
+ ]
+}

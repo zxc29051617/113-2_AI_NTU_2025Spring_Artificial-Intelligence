@@ -1,0 +1,184 @@
+{
+ "jobs": [
+  {
+   "id": "mBR0",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is break.",
+   "music_path": "data/aist_music/mBR0.mp3",
+   "offset": 8.0,
+   "genre": "break"
+  },
+  {
+   "id": "mBR3",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is break.",
+   "music_path": "data/aist_music/mBR3.mp3",
+   "offset": 8.0,
+   "genre": "break"
+  },
+  {
+   "id": "mPO1",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is pop.",
+   "music_path": "data/aist_music/mPO1.mp3",
+   "offset": 8.0,
+   "genre": "pop"
+  },
+  {
+   "id": "mPO4",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is pop.",
+   "music_path": "data/aist_music/mPO4.mp3",
+   "offset": 8.0,
+   "genre": "pop"
+  },
+  {
+   "id": "mLO2",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is lock.",
+   "music_path": "data/aist_music/mLO2.mp3",
+   "offset": 8.0,
+   "genre": "lock"
+  },
+  {
+   "id": "mLO5",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is lock.",
+   "music_path": "data/aist_music/mLO5.mp3",
+   "offset": 8.0,
+   "genre": "lock"
+  },
+  {
+   "id": "mMH3",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is middle hip-hop.",
+   "music_path": "data/aist_music/mMH3.mp3",
+   "offset": 8.0,
+   "genre": "middle hip-hop"
+  },
+  {
+   "id": "mMH0",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is middle hip-hop.",
+   "music_path": "data/aist_music/mMH0.mp3",
+   "offset": 8.0,
+   "genre": "middle hip-hop"
+  },
+  {
+   "id": "mLH4",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is LA style hip-hop.",
+   "music_path": "data/aist_music/mLH4.mp3",
+   "offset": 8.0,
+   "genre": "LA style hip-hop"
+  },
+  {
+   "id": "mLH1",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is LA style hip-hop.",
+   "music_path": "data/aist_music/mLH1.mp3",
+   "offset": 8.0,
+   "genre": "LA style hip-hop"
+  },
+  {
+   "id": "mHO5",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is house.",
+   "music_path": "data/aist_music/mHO5.mp3",
+   "offset": 8.0,
+   "genre": "house"
+  },
+  {
+   "id": "mHO2",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is house.",
+   "music_path": "data/aist_music/mHO2.mp3",
+   "offset": 8.0,
+   "genre": "house"
+  },
+  {
+   "id": "mWA0",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is waack.",
+   "music_path": "data/aist_music/mWA0.mp3",
+   "offset": 8.0,
+   "genre": "waack"
+  },
+  {
+   "id": "mWA3",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is waack.",
+   "music_path": "data/aist_music/mWA3.mp3",
+   "offset": 8.0,
+   "genre": "waack"
+  },
+  {
+   "id": "mKR2",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is krump.",
+   "music_path": "data/aist_music/mKR2.mp3",
+   "offset": 8.0,
+   "genre": "krump"
+  },
+  {
+   "id": "mKR5",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is krump.",
+   "music_path": "data/aist_music/mKR5.mp3",
+   "offset": 8.0,
+   "genre": "krump"
+  },
+  {
+   "id": "mJS3",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is street jazz.",
+   "music_path": "data/aist_music/mJS3.mp3",
+   "offset": 8.0,
+   "genre": "street jazz"
+  },
+  {
+   "id": "mJS0",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is street jazz.",
+   "music_path": "data/aist_music/mJS0.mp3",
+   "offset": 8.0,
+   "genre": "street jazz"
+  },
+  {
+   "id": "mJB5",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is ballet jazz.",
+   "music_path": "data/aist_music/mJB5.mp3",
+   "offset": 8.0,
+   "genre": "ballet jazz"
+  },
+  {
+   "id": "mJB2",
+   "task": "mo",
+   "music_desc": "",
+   "motion_desc": "The style of the dance is ballet jazz.",
+   "music_path": "data/aist_music/mJB2.mp3",
+   "offset": 8.0,
+   "genre": "ballet jazz"
+  }
+ ]
+}

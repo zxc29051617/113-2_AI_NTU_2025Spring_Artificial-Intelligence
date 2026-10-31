@@ -1,0 +1,7 @@
+UniMuMo
+pretrained
+data
+runs
+*.log
+*.ckpt
+*.safetensors

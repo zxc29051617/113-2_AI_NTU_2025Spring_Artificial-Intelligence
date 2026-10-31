@@ -1,0 +1,164 @@
+{
+ "jobs": [
+  {
+   "id": "blues_0",
+   "task": "mumo",
+   "music_desc": "The music is blues genre.",
+   "motion_desc": "The style of the dance is street jazz.",
+   "gtzan_genre": "blues",
+   "genre": "street jazz"
+  },
+  {
+   "id": "blues_1",
+   "task": "mumo",
+   "music_desc": "The audio is a blues track.",
+   "motion_desc": "The style of the dance is street jazz.",
+   "gtzan_genre": "blues",
+   "genre": "street jazz"
+  },
+  {
+   "id": "classical_0",
+   "task": "mumo",
+   "music_desc": "The music is classical genre.",
+   "motion_desc": "The style of the dance is ballet jazz.",
+   "gtzan_genre": "classical",
+   "genre": "ballet jazz"
+  },
+  {
+   "id": "classical_1",
+   "task": "mumo",
+   "music_desc": "The audio is a classical track.",
+   "motion_desc": "The style of the dance is ballet jazz.",
+   "gtzan_genre": "classical",
+   "genre": "ballet jazz"
+  },
+  {
+   "id": "country_0",
+   "task": "mumo",
+   "music_desc": "The music is country genre.",
+   "motion_desc": "The style of the dance is house.",
+   "gtzan_genre": "country",
+   "genre": "house"
+  },
+  {
+   "id": "country_1",
+   "task": "mumo",
+   "music_desc": "The audio is a country track.",
+   "motion_desc": "The style of the dance is house.",
+   "gtzan_genre": "country",
+   "genre": "house"
+  },
+  {
+   "id": "disco_0",
+   "task": "mumo",
+   "music_desc": "The music is disco genre.",
+   "motion_desc": "The style of the dance is lock.",
+   "gtzan_genre": "disco",
+   "genre": "lock"
+  },
+  {
+   "id": "disco_1",
+   "task": "mumo",
+   "music_desc": "The audio is a disco track.",
+   "motion_desc": "The style of the dance is lock.",
+   "gtzan_genre": "disco",
+   "genre": "lock"
+  },
+  {
+   "id": "hiphop_0",
+   "task": "mumo",
+   "music_desc": "The music is hip-hop genre.",
+   "motion_desc": "The style of the dance is middle hip-hop.",
+   "gtzan_genre": "hiphop",
+   "genre": "middle hip-hop"
+  },
+  {
+   "id": "hiphop_1",
+   "task": "mumo",
+   "music_desc": "The audio is a hip-hop track.",
+   "motion_desc": "The style of the dance is middle hip-hop.",
+   "gtzan_genre": "hiphop",
+   "genre": "middle hip-hop"
+  },
+  {
+   "id": "jazz_0",
+   "task": "mumo",
+   "music_desc": "The music is jazz genre.",
+   "motion_desc": "The style of the dance is street jazz.",
+   "gtzan_genre": "jazz",
+   "genre": "street jazz"
+  },
+  {
+   "id": "jazz_1",
+   "task": "mumo",
+   "music_desc": "The audio is a jazz track.",
+   "motion_desc": "The style of the dance is street jazz.",
+   "gtzan_genre": "jazz",
+   "genre": "street jazz"
+  },
+  {
+   "id": "metal_0",
+   "task": "mumo",
+   "music_desc": "The music is metal genre.",
+   "motion_desc": "The style of the dance is krump.",
+   "gtzan_genre": "metal",
+   "genre": "krump"
+  },
+  {
+   "id": "metal_1",
+   "task": "mumo",
+   "music_desc": "The audio is a metal track.",
+   "motion_desc": "The style of the dance is krump.",
+   "gtzan_genre": "metal",
+   "genre": "krump"
+  },
+  {
+   "id": "pop_0",
+   "task": "mumo",
+   "music_desc": "The music is pop genre.",
+   "motion_desc": "The style of the dance is pop.",
+   "gtzan_genre": "pop",
+   "genre": "pop"
+  },
+  {
+   "id": "pop_1",
+   "task": "mumo",
+   "music_desc": "The audio is a pop track.",
+   "motion_desc": "The style of the dance is pop.",
+   "gtzan_genre": "pop",
+   "genre": "pop"
+  },
+  {
+   "id": "reggae_0",
+   "task": "mumo",
+   "music_desc": "The music is reggae genre.",
+   "motion_desc": "The style of the dance is LA style hip-hop.",
+   "gtzan_genre": "reggae",
+   "genre": "LA style hip-hop"
+  },
+  {
+   "id": "reggae_1",
+   "task": "mumo",
+   "music_desc": "The audio is a reggae track.",
+   "motion_desc": "The style of the dance is LA style hip-hop.",
+   "gtzan_genre": "reggae",
+   "genre": "LA style hip-hop"
+  },
+  {
+   "id": "rock_0",
+   "task": "mumo",
+   "music_desc": "The music is rock genre.",
+   "motion_desc": "The style of the dance is break.",
+   "gtzan_genre": "rock",
+   "genre": "break"
+  },
+  {
+   "id": "rock_1",
+   "task": "mumo",
+   "music_desc": "The audio is a rock track.",
+   "motion_desc": "The style of the dance is break.",
+   "gtzan_genre": "rock",
+   "genre": "break"
+  }
+ ]
+}
