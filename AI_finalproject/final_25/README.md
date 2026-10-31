@@ -1,6 +1,3 @@
-# 113-2_AI_NTU_2025Spring_Artificial-Intelligence
-鄭文皇_人工智慧_AI_NTU_2025Spring_Artificial Intelligence
-
 # Text → Music + Motion with GPTo3
 1. Go to **Runtime → Change runtime type** and select **GPU** as the hardware accelerator.  
 2. In your codebase, open `unimumo/models/unimumo.py` and locate the checkpoint loading line:
