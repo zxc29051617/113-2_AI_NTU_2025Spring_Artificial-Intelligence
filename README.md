@@ -50,6 +50,8 @@
 
 ## 期末專題：音樂與舞蹈風格的主觀感受
 
+第 25 組，組員：Ke-Yang Wu、Chih-Yang Hsiao、Cai-jie Fan、Yu-Shan Lin、Kai-Yuan Cheng、Hsien-Ting Wang。
+
 論文：[`AI_finalproject/final_25/final_25.pdf`](AI_finalproject/final_25/final_25.pdf)  
 簡報：[`AI_finalproject/AI Report.pptx`](<AI_finalproject/AI Report.pptx>)
 
