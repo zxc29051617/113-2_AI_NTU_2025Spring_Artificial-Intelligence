@@ -58,6 +58,6 @@
 使用 [UniMuMo](https://github.com/hanyangclarence/UniMuMo) 從文字產生音樂與舞蹈動作，比較不同組合產生的結果，評估人們對音樂與舞蹈風格的主觀感受。
 各實驗的執行步驟見 [`AI_finalproject/final_25/README.md`](AI_finalproject/final_25/README.md)。
 
-延伸實驗：[`AI_finalproject/beat_rerank/`](AI_finalproject/beat_rerank)。在本機重現原本的評估（UniMuMo、CLAP、
+節拍對齊實驗：[`AI_finalproject/beat_rerank/`](AI_finalproject/beat_rerank)。重現專題的評估（UniMuMo、CLAP、
 曲風分類器、BAS），加入對照組、真人舞者參考與多個 seed，並用 16 選 1 的候選挑選和節拍重定時，
 讓 UniMuMo 生成的舞步對上音樂的拍子。
